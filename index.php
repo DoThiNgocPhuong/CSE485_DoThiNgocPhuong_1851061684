@@ -83,7 +83,7 @@ $result_reference = mysqli_query($connect, $sql_reference);
             <div class="profile-page">
                 <div class="wrapper">
                     <div class="page-header page-header-small" filter-color="green">
-                        <div class="page-header-image" data-parallax="true" style="background-image: url('images/pp.jpg');"></div>
+                        <div class="page-header-image" data-parallax="true" style="background-image: url('images/cc-bg-1.jpg');"></div>
                         <div class="container">
                             <div class="content-center">
                                 <div class="cc-profile-image">
